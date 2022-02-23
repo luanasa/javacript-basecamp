@@ -8,6 +8,7 @@ Utilize a técnica "object destructuring" para manipular as propriedades desejad
 
 
 Atividade 2: This
+
 Dada a função calculaIdade, utilize os métodos call e apply para modificar o valor de this. Crie seus próprios objetos para esta atividade!
 
   -> function calculaIdade(anos) {
